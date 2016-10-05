@@ -1,3 +1,9 @@
 <P>
   Hello everubody!
 <P>
+
+<script type= "text/javascript">
+  alert(`это вам не хер собачий
+  а перенос строки!
+  вот так вот!`)
+</script>
